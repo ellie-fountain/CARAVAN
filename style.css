@@ -4,3 +4,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header{
+	width: auto;
+	height: 120px;
+	background-color: red;
+
+
+}
+
+.main-visual{
+	width: auto;
+	height: 300px
+	background-color: orange;
+}
