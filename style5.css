@@ -1,0 +1,48 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+a {
+  text-decoration: none;
+}
+ 
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+header{
+	width:100%;
+	height: 400px;
+	background-image: url(img/mv2.jpg);
+	background-size: cover;
+	background-position: bottom;
+}
+.header-text{
+ padding-top: 20px;
+ padding-left: 20px;
+}
+
+.main-box{
+	width:840px;
+	height:auto;
+	margin: 0 auto;
+}
+.wcp{
+	border-top: 1px solid;
+	padding-bottom: 30px;
+}
+.wcp-image{
+	padding-top: 50px
+}
+.category{
+	border-bottom: 1px solid;
+}
+footer{
+	padding-top: 50px;
+	border-top: 1px solid;
+}
