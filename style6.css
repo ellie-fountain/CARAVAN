@@ -1,0 +1,146 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+a {
+  text-decoration: none;
+}
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.lists-box{
+	width: 960px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.list-text{
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+.list-1{
+	width: 960px;
+	height: 50px;
+	background-color: gray;
+}
+.list-2{
+	width: 960px;
+	height: 50px;
+	background-color: white;
+}
+.list-3{
+	width: 960px;
+	height: 50px;
+	background-color: gray;
+}
+.list-4{
+	width: 960px;
+	height: 50px;
+	background-color: white;
+}
+.list-5{
+	width: 960px;
+	height: 50px;
+	background-color: gray;
+}
+.list-6{
+	width: 960px;
+	height: 50px;
+	background-color: white;
+}
+.list-7{
+	width: 960px;
+	height: 50px;
+	background-color: gray;
+}
+.color-boxes{
+	width:960px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 40px;
+	font-size: 0;
+}
+
+.box-1{
+	width: 30%;
+	height: 200px;
+	display: inline-block;
+	background-color: orange;
+}
+.box-2{
+	width:30%;
+	height:200px;
+	display: inline-block;
+	background-color: yellow;
+	margin-left: 5%;
+	margin-right: 5%;
+
+}
+.box-3{
+	width:30%;
+	height: 200px;
+	display: inline-block;
+	background-color: gold;
+
+}
+.color-boxes2{
+	width: 960px;
+	height: 200px;
+	margin: 0 auto;
+	margin-bottom: 40px;
+	font-size: 0;
+}
+.box-4{
+	width: 30%;
+	height: 200px;
+	display: inline-block;
+	background-color: yellow;
+}
+.box-5{
+    width:30%;
+	height:200px;
+	display: inline-block;
+	background-color: orange;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.box-6{
+    width:30%;
+	height: 200px;
+	display: inline-block;
+	background-color: yellow;
+}
+.color-boxes3{
+    width: 960px;
+	height: 200px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+	font-size: 0;
+}
+.box-7{
+	width: 30%;
+	height: 200px;
+	display: inline-block;
+	background-color: yellow;
+}
+.box-8{
+	width:30%;
+	height:200px;
+	display: inline-block;
+	background-color: yellow;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.box-9{
+	width:30%;
+	height: 200px;
+	display: inline-block;
+	background-color: orange;
+}
