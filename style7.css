@@ -13,3 +13,42 @@ a {
   display: block;
   clear: both;
 }
+
+.step-box{
+	width: 960px;
+	height: 600px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+.step-num{
+	width: 40px;
+	height: 20px;
+	background-color: orange;
+	text-decoration-color: rgba(33, 39, 98, 0.5);
+	position: absolute;
+}
+.step-1{
+	width: 300px;
+	float: left;
+	border: 1px solid lightgray;
+	margin-right: 30px;
+}
+.step-2{
+	width: 300px;
+	float: left;
+	border: 1px solid lightgray;
+	margin-right: 30px;
+}
+.step-3{
+	width: 300px;
+	float: left;
+	border: 1px solid lightgray;
+}
+.step-image{
+	height:140px;
+	width: 280px;
+	margin-top: 10px;
+	margin-left:10px;
+	margin-right: 10px; 
+}
