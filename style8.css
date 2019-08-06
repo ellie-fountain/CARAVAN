@@ -17,8 +17,7 @@ a {
 .step-box{
 	width: 960px;
 	height: 600px;
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin: 50px auto;
 
 }
 .step-num{
@@ -48,7 +47,6 @@ a {
 .step-image{
 	height:140px;
 	width: 280px;
-	margin: 0 auto;
 	margin-top: 10px;
 	margin-left:10px;
 	margin-right: 10px; 
